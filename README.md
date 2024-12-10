@@ -66,10 +66,11 @@ Ensure you have the following installed:
 
 ---
 
+### **3. This Application is still under Development**
+
+
 ### **2. Clone the Repository**
 
 ```bash
 git clone https://github.com/Dhanvandri/social-media-platform.git
 cd social-media-platform
-
-### **3. This Application is still under Development**
