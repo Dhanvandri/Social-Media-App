@@ -53,6 +53,9 @@ This is a full-stack social media application where users can interact by creati
 
 ---
 
+### **This Application is still under Development**
+
+
 ## **Setup Instructions**
 
 Follow these steps to set up the project locally:
@@ -66,10 +69,7 @@ Ensure you have the following installed:
 
 ---
 
-### **3. This Application is still under Development**
-
-
-### **2. Clone the Repository**
+### **3. Clone the Repository**
 
 ```bash
 git clone https://github.com/Dhanvandri/social-media-platform.git
